@@ -1,0 +1,100 @@
+[
+    {
+      "id": 1,
+      "icon": "layui-icon-home",
+      "href": "home",
+      "title": "首页",
+      "checked": false,
+      "children": [],
+      "parentId": -1,
+      "hasParent": false,
+      "hasChild": false,
+      "sort": 1
+    },
+    {
+      "id": 2,
+      "icon": "layui-icon-home",
+      "href": "",
+      "title": "11111111",
+      "checked": false,
+      "children": [
+        {
+          "id": 5,
+          "icon": "",
+          "href": "home",
+          "title": "222",
+          "checked": false,
+          "children": [],
+          "parentId": 2,
+          "hasParent": true,
+          "hasChild": false,
+          "sort": 1
+        },
+        {
+          "id": 6,
+          "icon": "",
+          "href": "",
+          "title": "333",
+          "checked": false,
+          "children": [],
+          "parentId": 2,
+          "hasParent": true,
+          "hasChild": false,
+          "sort": 2
+        },
+        {
+          "id": 7,
+          "icon": "",
+          "href": "",
+          "title": "444",
+          "checked": false,
+          "children": [],
+          "parentId": 2,
+          "hasParent": true,
+          "hasChild": false,
+          "sort": 3
+        }
+      ],
+      "parentId": -1,
+      "hasParent": false,
+      "hasChild": true,
+      "sort": 2
+    },
+    {
+      "id": 3,
+      "icon": "layui-icon-home",
+      "href": "",
+      "title": "77777",
+      "checked": false,
+      "children": [
+        {
+          "id": 14,
+          "icon": "",
+          "href": "",
+          "title": "88888",
+          "checked": false,
+          "children": [],
+          "parentId": 3,
+          "hasParent": true,
+          "hasChild": false,
+          "sort": 1
+        }
+      ],
+      "parentId": -1,
+      "hasParent": false,
+      "hasChild": true,
+      "sort": 3
+    },
+    {
+      "id": 4,
+      "icon": "layui-icon-home",
+      "href": "",
+      "title": "用户管理",
+      "checked": false,
+      "children": [],
+      "parentId": -1,
+      "hasParent": false,
+      "hasChild": false,
+      "sort": 4
+    }
+  ]
